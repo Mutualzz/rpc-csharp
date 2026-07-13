@@ -2,7 +2,9 @@
 
 .NET client for Mutualzz desktop Rich Presence over local IPC.
 
-Protocol: [`../rpc/PROTOCOL.md`](../rpc/PROTOCOL.md)
+Requires the **Mutualzz desktop app** to be running.
+
+Protocol: [`PROTOCOL.md`](https://github.com/Mutualzz/mutualzz/blob/master/packages/rpc/PROTOCOL.md)
 
 ## Install
 
@@ -10,13 +12,10 @@ Protocol: [`../rpc/PROTOCOL.md`](../rpc/PROTOCOL.md)
 dotnet add package Mutualzz.Rpc
 ```
 
-Published via [`.github/workflows/release-rpc.yml`](../../.github/workflows/release-rpc.yml) using NuGet Trusted Publishing. Version must match `packages/rpc/package.json`.
-
 From this monorepo:
 
 ```bash
 dotnet build packages/rpc-csharp/Mutualzz.Rpc.csproj
-dotnet pack packages/rpc-csharp/Mutualzz.Rpc.csproj -c Release
 ```
 
 ## Usage
