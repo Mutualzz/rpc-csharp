@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>Mutualzz.Rpc</RootNamespace>
+    <AssemblyName>Mutualzz.Rpc</AssemblyName>
+    <PackageId>Mutualzz.Rpc</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Mutualzz</Authors>
+    <Description>Local IPC helper for Mutualzz desktop Rich Presence</Description>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/Mutualzz/mutualzz.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>mutualzz;rpc;presence;ipc</PackageTags>
+    <GenerateDocumentationFile>false</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="LICENSE" Pack="true" PackagePath="" />
+    <None Include="README.md" Pack="true" PackagePath="" />
+  </ItemGroup>
+</Project>
