@@ -1,4 +1,14 @@
-# Mutualzz.Rpc (C# / .NET)
+<div align="center">
+
+# Mutualzz development moved to [git.mutualzz.com](https://git.mutualzz.com/mutualzz/mutualzz)
+
+**GitHub is a read-only mirror. Issues and pull requests opened on GitHub are not monitored.**
+
+Sign in with your GitHub account. No new password needed.
+
+</div>
+
+# Mutualzz RPC (C# / .NET)
 
 .NET client for Mutualzz desktop Rich Presence over local IPC.
 
