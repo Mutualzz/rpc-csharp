@@ -12,7 +12,7 @@
     <Description>Local IPC helper for Mutualzz desktop Rich Presence</Description>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <RepositoryUrl>https://github.com/Mutualzz/mutualzz.git</RepositoryUrl>
+    <RepositoryUrl>https://git.mutualzz.com/mutualzz/mutualzz.git</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
     <PackageTags>mutualzz;rpc;presence;ipc</PackageTags>
     <GenerateDocumentationFile>false</GenerateDocumentationFile>
