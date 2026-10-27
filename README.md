@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mutualzz development moved to [git.mutualzz.com](https://git.mutualzz.com/mutualzz/mutualzz)
+# Mutualzz is developed at [git.mutualzz.com](https://git.mutualzz.com/mutualzz/rpc-csharp)
 
 **GitHub is a read-only mirror. Issues and pull requests opened on GitHub are not monitored.**
 
@@ -14,7 +14,7 @@ Sign in with your GitHub account. No new password needed.
 
 Requires the **Mutualzz desktop app** to be running.
 
-Protocol: [`PROTOCOL.md`](https://git.mutualzz.com/mutualzz/mutualzz/blob/master/packages/rpc/PROTOCOL.md)
+Protocol: [`PROTOCOL.md`](https://git.mutualzz.com/mutualzz/rpc/src/branch/master/PROTOCOL.md)
 
 ## Install
 
