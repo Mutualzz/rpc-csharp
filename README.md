@@ -28,6 +28,10 @@ From this monorepo:
 dotnet build packages/rpc-csharp/Mutualzz.Rpc.csproj
 ```
 
+## Get an application ID
+
+In the Mutualzz app, open **Settings → Applications**, create an application, and copy its ID. Use it as `ClientId`; your activity then shows the application's name and icon.
+
 ## Usage
 
 ```csharp
